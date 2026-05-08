@@ -11,43 +11,43 @@
 	
 	
 	{
-      "name": "system-x7-Oldschool/Interface.u",
+      "name": "system/Interface.u",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/Interface.u"
     },
     {
-      "name": "system-x7-Oldschool/LineageEffect.u",
+      "name": "system/LineageEffect.u",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/LineageEffect.u"
     },
 	{
-      "name": "system-x7-Oldschool/lineageeffect2a.u",
+      "name": "system/lineageeffect2a.u",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/lineageeffect2a.u"
     },
 	{
-      "name": "system-x7-Oldschool/LineageEffect3a.u",
+      "name": "system/LineageEffect3a.u",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/LineageEffect3a.u"
     },
 	{
-      "name": "system-x7-Oldschool/LineageSkillEffect.u",
+      "name": "system/LineageSkillEffect.u",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/LineageSkillEffect.u"
     },
 	{
-      "name": "system-x7-Oldschool/Skillgrp.dat",
+      "name": "system/x7/Skillgrp.dat",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/Skillgrp.dat"
     },
 	{
-      "name": "system-x7-Oldschool/L2GameDataName.dat",
+      "name": "system/x7/L2GameDataName.dat",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/L2GameDataName.dat"
     },
 	{
-      "name": "system-x7-Oldschool/user.ini",
+      "name": "system/user.ini",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/user.ini"
     },
 	{
-      "name": "system-x7-Oldschool/Core.dll",
+      "name": "system/Core.dll",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/Core.dll"
     },
 	{
-      "name": "system-x7-Oldschool/NWindow.dll",
+      "name": "system/NWindow.dll",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/NWindow.dll"
     }
 
