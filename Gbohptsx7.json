@@ -1,7 +1,8 @@
 {
   "allowed_machine_guids": [
     "6979n875-g123-o724-i968-f4562v22",
-	"d111e518-e14d-4a26-a2fb-dad6f4ac552d"
+	"d111e518-e14d-4a26-a2fb-dad6f4ac552d",
+	"e0c1f4a0-ff73-4982-a420-d7f3b0b13d74"
 	
 	
   ],
@@ -48,12 +49,7 @@
 	{
       "name": "system-x7-Oldschool/NWindow.dll",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/NWindow.dll"
-    },
-	{
-      "name": "SysTextures/UI_BOHPTS.utx",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/UI_BOHPTS.utx"
     }
-
 
 	
   ]
