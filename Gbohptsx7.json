@@ -43,11 +43,8 @@
 	{
       "name": "system/Core.dll",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/Core.dll"
-    },
-	{
-      "name": "system/NWindow.dll",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/NWindow.dll"
     }
+
 
 	
   ]
